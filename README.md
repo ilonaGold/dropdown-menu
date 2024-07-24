@@ -1,2 +1,2 @@
 # dropdown-menu
-Dropdown menu with css jover effect
+Dropdown menu with css hover effect
